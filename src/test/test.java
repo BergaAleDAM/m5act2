@@ -18,7 +18,7 @@ public class test {
      */
     public static void main(String[] args) {
        
-        MyUtils.factorial(4);
+        System.out.println(MyUtils.inverteix(null));
     
 }
 }
